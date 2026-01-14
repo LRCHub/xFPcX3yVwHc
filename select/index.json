@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "A COLD PLAY",
+  "base_artist": "The Kid LAROI",
+  "createdAt": "2026-01-14T04:43:21.497029Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A COLD PLAY",
+      "artist": "The Kid LAROI",
+      "has_synced": true,
+      "path": "select/01_A_COLD_PLAY_The_Kid_LAROI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A COLD PLAY (Paused)",
+      "artist": "The Kid LAROI",
+      "has_synced": true,
+      "path": "select/02_A_COLD_PLAY_(Paused)_The_Kid_LAROI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "A COLD PLAY",
+      "artist": "The Kid LAROI",
+      "has_synced": false,
+      "path": "select/pl_01_A_COLD_PLAY_The_Kid_LAROI.txt"
+    }
+  ]
+}
